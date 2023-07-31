@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raihanpraditya
 - 👀 I’m interested in Software Dev & IT Architect
-- 🌱 I’m currently learning PHP, Java, C++, .Net, React
+- 🌱 I’m currently develope with Laravel, Codeigniter, Flutter, Golang, React.Js
 - 📫 raihanpraditya@ymail.com / IG : @raihanpraditya
 
 <!---
